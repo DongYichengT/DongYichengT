@@ -1,30 +1,26 @@
 <h1 align="center">Hi 👋, I'm YICHENG </h1>
-<h3 align="center">Undergraduate in Computer Science (Digital Media Technol</h3>
+🎓 **Computer Science (Digital Media Technology)** undergraduate student from DUT, China  
+🔬 **Research Intern** in Montreal, focusing on **Computer Vision & AI**  
+💼 **Open to internship or research opportunities starting October 2025**, especially in **Computer Vision**, **AI**,**Software developing" and related fields.
 
-- 💡 Interested in **Computer Vision**, **AI**
-- 📫 How to reach me **unchengd@gmail.com**
-- 📍 Currently a **Research Intern in Montreal**, expected to graduate in June 2026  
 ## About Me
-Currently planning for my master's degree and internship in AI/computer vision.  
-💼 **Open to internship or research opportunities starting October 2025**, especially in **Computer Vision**, **AI**, and related fields.
-**Languages:**  
-- **Chinese** (Native)  
-- **English** (IELTS 7.5)  
-- **Japanese** (JLPT N1)
+- 💡 Interested in **Computer Vision**, **AI**
+- 📜 Currently planning for my master's degree and internship in AI/computer vision.  
 
-- 
-## Projects
-- **[EcoCycle Survival Strategy Game](https://github.com/DongYichengT/Survival-strategy-game-EcoCycle)**  
-  A digital media project combining environmental simulation and strategy gameplay.
+## 📚 Research & Projects
+- **[EcoCycle Survival Strategy Game](https://github.com/DongYichengT/Survival-strategy-game-EcoCycle)** A digital media project combining environmental simulation and strategy gameplay. - **Underwater Image Enhancement Network** A deep learning model leveraging blended scene priors to restore underwater images.
+---
 
-- **Underwater Image Enhancement Network**  
-  A deep learning model leveraging blended scene priors to restore underwater images.
+## 💬 Languages
+- **Chinese (Native)**
+- **English** – IELTS 7.5
+- **Japanese** – JLPT N1
 
 
 ## Contact
 📧 **Email:** unchengd@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/yicheng-dong-2a71a5360](www.linkedin.com/in/yicheng-dong-2a71a5360)  
-💻 **GitHub:** [github.com/DongYichengT](https://github.com/DongYichengT)
+🔗 **LinkedIn:** [yicheng-dong](www.linkedin.com/in/yicheng-dong-2a71a5360)  
+💻 **GitHub:** [DongYichengT](https://github.com/DongYichengT)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
