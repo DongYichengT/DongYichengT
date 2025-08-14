@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm YICHENG </h1>
+
 🎓 **Computer Science (Digital Media Technology)** undergraduate student from DUT, China  
 🔬 **Research Intern** in Montreal, focusing on **Computer Vision & AI**  
 💼 **Open to internship or research opportunities starting October 2025**, especially in **Computer Vision**, **AI**,**Software developing" and related fields.
