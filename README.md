@@ -4,6 +4,14 @@
 - 💡 Interested in **Computer Vision**, **AI**
 - 📫 How to reach me **unchengd@gmail.com**
 
+  
+## Projects
+- **[EcoCycle Survival Strategy Game](https://github.com/DongYichengT/Survival-strategy-game-EcoCycle)**  
+  A digital media project combining environmental simulation and strategy gameplay.
+
+- **Underwater Image Enhancement Network**  
+  A deep learning model leveraging blended scene priors to restore underwater images.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
