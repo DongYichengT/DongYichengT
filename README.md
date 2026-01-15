@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm YICHENG </h1>
 
 🎓 **Computer Science (Digital Media Technology)** undergraduate student from DUT, China  
-🔬 **Research Intern** in Montreal, focusing on **Computer Vision & AI**  
-💼 **Open to internship or research opportunities starting October 2025**, especially in **Computer Vision**, **AI**,**Software developing" and related fields.
+🔬 **Research Intern** in Montreal, focusing on **DNN testing and test selection**  
+🧪 AI Test Intern at the [International Digital Economy Academy](https://github.com/idea-research), Shenzhen, China 
 
 ## About Me
-- 💡 Interested in **Computer Vision**, **AI**
-- 📜 Currently planning for my master's degree and internship in AI/computer vision.  
-
+- 💡 Interested in **Software Engineering**, **AI**
+- 📜 Currently planning for my master's degree and internship
 ## 📚 Research & Projects
-- **[EcoCycle Survival Strategy Game](https://github.com/DongYichengT/Survival-strategy-game-EcoCycle)** A digital media project combining environmental simulation and strategy gameplay. - **Underwater Image Enhancement Network** A deep learning model leveraging blended scene priors to restore underwater images.
----
+- **[EcoCycle Survival Strategy Game](https://github.com/DongYichengT/Survival-strategy-game-EcoCycle)** A digital media project combining environmental simulation and strategy gameplay.
+- **Underwater Image Enhancement Network** A deep learning model leveraging blended scene priors to restore underwater images.
+- **[membership-management-system](https://github.com/DongYichengT/membership-management-system)**
+- **[Interactive-3D-mesh-label-color-modification-tool](https://github.com/DongYichengT/Interactive-3D-mesh-label-color-modification-tool)**
 
+  
 ## 💬 Languages
 - **Chinese (Native)**
 - **English** – IELTS 7.5
@@ -20,7 +22,7 @@
 
 ## Contact
 📧 **Email:** unchengd@gmail.com
-🔗 **LinkedIn:** [yicheng-dong](www.linkedin.com/in/yicheng-dong-2a71a5360)  
+🔗 **LinkedIn:** [yicheng-dong](https://www.linkedin.com/in/yicheng-undefined-3016763a5/)  
 💻 **GitHub:** [DongYichengT](https://github.com/DongYichengT)
 
 <h3 align="left">Connect with me:</h3>
